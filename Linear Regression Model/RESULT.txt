@@ -1,0 +1,20 @@
+TERMS	           Lasso		     Ridge	
+INTERCEPT         18.5219		    18.5130	
+MORNING            0.0000		    -0.0112	
+AFTERNOON          0.0000		    -0.0268	
+NIGHT              0.0194		     0.0379	
+WEEKDAY           -0.0136		    -0.0063	
+WEEKEND            0.0136		     0.0063	
+HOT SEASON        -0.0563		    -0.0783	
+COLD SEASON        0.0563		     0.0783	
+VOLTAGE            0.1075		     0.1221	
+INTENSITY         10.8792		    10.6774	
+METER 1           -0.1141		    -0.0226	
+METER 2           -0.0215		     0.0019	
+METER 3            0.1488		     0.2699	
+
+
+TESTING ERROR       0.0860		     0.0843	
+
+TRAINING ERROR       0.0625		     0.0666		 
+REGULARIZATION TERM       6.9500		    10.0000		 
