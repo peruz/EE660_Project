@@ -1,0 +1,15 @@
+TERMS	           VALUE	
+INTERCEPT         -0.6601	
+MORNING           -0.0388	
+AFTERNOON          0.4365	
+NIGHT             -0.3982	
+WEEKDAY           -0.0604	
+WEEKEND            0.0604	
+HOT SEASON         0.4893	
+COLD SEASON       -0.4893	
+METER 1            0.2969	
+METER 2            0.5531	
+METER 3            1.3165	
+
+
+TESTING ERROR       0.1700	

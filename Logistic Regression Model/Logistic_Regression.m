@@ -32,7 +32,7 @@ weight = LRmodel.w;
 
 fid = fopen('RESULT_LR2.txt','w');
 fprintf(fid,'%s\t %15s\t\n','TERMS','VALUE');
-term = {'INTERCEPT  ', 'MORNING    ','AFTERNOON  ','NIGHT      ','WEEKDAY    ','WEEKEND    ','HOT SEASON ','COLD SEASON', 'VOLTAGE    ','INTENSITY  ','METER 1    ','METER 2    ', 'METER 3    '};
+term = {'INTERCEPT  ', 'MORNING    ','AFTERNOON  ','NIGHT      ','WEEKDAY    ','WEEKEND    ','HOT SEASON ','COLD SEASON', 'VOLTAGE    ','METER 1    ','METER 2    ', 'METER 3    '};
 for i = 1:1:11
     fprintf(fid,'%s %13.4f\t\n',term{i},weight(i));
 end
