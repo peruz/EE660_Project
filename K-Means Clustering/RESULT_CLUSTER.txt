@@ -1,6 +1,7 @@
-TERMS	            MEAN	
-CLUSTER 1          0.2779        0.4872        3.6055        5.8809	
-CLUSTER 2          3.0906        3.4131       10.2500       22.1727	
-CLUSTER 3           1.7335        1.6852       10.3738       10.1424	
+TERMS	     METER 1         METER 2         METER 3         UNMETERED       TOTAL POWER	
+CLUSTER 1          0.3074        0.5106        3.7630        6.0105       10.5915	
+CLUSTER 2          3.3003        3.5940       10.3163       23.6564       40.8670	
+CLUSTER 3           1.8442        1.8231       10.6067       10.7838       25.0579	
 
+CALINSKI AND HARABASZ INDEX is    3602.9107	
 
